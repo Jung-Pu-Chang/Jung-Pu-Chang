@@ -9,7 +9,7 @@
 
 - **2022.4 ~ 2022.7 - Data Analyst Intern at [Yulon Finance Corporation](https://www.tac.com.tw/)** <br> 
    - Extract Useful Feature:
-     Using Feature Selection(IV、Fisher、GINI、AIC...) to figure out useful feature for default model. Finally, we promote 20% KS value and avoid many clients default.      Improved the F1-score from 0.58 to 0.86 on the prediction of depression.
+     Using Feature Selection(IV、Fisher、GINI、AIC...) to figure out useful feature for default model. Finally, we promote 20% KS value and avoid many clients default.   
         
 - **2020.9 ~ 2022.6 - Research Assistant & Master Student in [DS.SCU](https://bigdata.scu.edu.tw/enroll/master/)** <br>
   - [Publication](https://hdl.handle.net/11296/4b5ema) : Reducing Data Set Dimensionality by Fu-Jung Feature Selection Method - Using Business Application Problem as an Example
