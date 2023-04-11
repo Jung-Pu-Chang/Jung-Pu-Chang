@@ -8,10 +8,9 @@
   - Using GA optimization to build retail map and sale to famous retail enterprises. Retail map can optimize teant place, bring confortable shopping experience to customer.
 
 - **2022.4 ~ 2022.7 - Data Analyst Intern at [Yulon Finance Corporation](https://www.tac.com.tw/)** <br> 
-   - Extract Useful Feature:
-     Using Feature Selection(IV、Fisher、GINI、AIC...) to figure out useful feature for default model. Finally, we promote 20% KS value and avoid many clients default.   
+   - Using Feature Selection(IV、Fisher、GINI、AIC...) to figure out useful feature for default model. Finally, we promote 20% KS value and avoid many clients default.   
         
-- **2020.9 ~ 2022.6 - Research Assistant & Master Student in [DS.SCU](https://bigdata.scu.edu.tw/enroll/master/)** <br>
+- **2020.9 ~ 2022.6 - Research (Feature Engineering) Assistant & Master Student in [DS.SCU](https://bigdata.scu.edu.tw/enroll/master/)** <br>
   - [Publication](https://hdl.handle.net/11296/4b5ema) : Reducing Data Set Dimensionality by Fu-Jung Feature Selection Method - Using Business Application Problem as an Example
 
 - **2018.8 ~ 2020.6 - Data Analyst at [CashBox](https://www.cashboxparty.com/)** <br>
