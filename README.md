@@ -3,8 +3,8 @@
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
         
-## :school: Experience
-- **2022.12 - Software Engineer at [ASUS AICS](https://aics.asus.com/home/)**<br>
+## 📃: Experience
+- **2022.9 - Data Analyst at [Datarget](https://www.datarget.com/)**<br>
 
 - **2020.9 ~ 2022.1 - Research Assistant in [NLP Lab](https://nlp.bigdata.scu.edu.tw/)(@DS.SCU)** <br>
    - Invented a combination model of neural network and statistic method for co-reference resolution. Improved F1-score from 78.3 to 79.2.
@@ -27,5 +27,6 @@
 
 - **2016.9 ~ 2020.7 - Bachelor student in SCU (@DS.SCU)** <br>
 
+## 📃: Publication
 
 ### [**A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context**](https://github.com/h30306/Annotation_system) <br>
