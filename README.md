@@ -5,6 +5,7 @@
 - **2022.9 ~ now - Data Analyst at [Datarget](https://www.datarget.com/)**<br>
   - Using GNN + SNA + Collaborative Filtering to build recommandation system and sale to famous retail enterprises. Recommandation system promote customer's demand and take huge benefit to famous retail enterprises.
   - Using Binning + Feature Selection + Regression to build member rating system and sale to famous retail enterprises. From the system, we can figure out the most suitable member in every activities and explain the reason.
+  - 3. Using Prophet + SARIMAX + Feature Creation to build Inventory Management System. POC in famous semiconductor manufacturing enterprise. It reduced 70% deviation.
   - Using GA optimization to build retail map and sale to famous retail enterprises. Retail map can optimize teant place, bring confortable shopping experience to customer.
 
 - **2022.4 ~ 2022.7 - Data Analyst Intern at [Yulon Finance Corporation](https://www.tac.com.tw/)** <br> 
