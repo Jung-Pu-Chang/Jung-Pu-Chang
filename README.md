@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
         
 ## 📃: Experience
-- **2022.9 ~ now - Data Analyst at [TURNCLOUD]([https://www.datarget.com/](https://www.turn2cloud.com/))**<br>
+- **2022.9 ~ now - Data Analyst at [TURNCLOUD]([https://www.turn2cloud.com/])**<br>
   - Using GNN + SNA + Collaborative Filtering to build recommandation system and sale to famous retail enterprises. Recommandation system promote customer's demand and take huge benefit to famous retail enterprises.
   - Using Binning + Feature Selection + Regression to build member rating system and sale to famous retail enterprises. From the system, we can figure out the most suitable member in every activities and explain the reason.
   - Using Prophet + SARIMAX + Feature Creation to build Inventory Management System. POC in famous semiconductor manufacturing enterprise. It reduced 70% deviation.
