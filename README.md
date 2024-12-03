@@ -2,13 +2,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
         
 ## 📃: Experience
-- **2024.8 ~ now - Data Analyst at [PXmart](https://www.pxmart.com.tw/)**<br>
+- **2024.8 ~ now - Data Scientist at [PXmart](https://www.pxmart.com.tw/)**<br>
   - Using PostgreSQL and PySpark for million-member data mining.
   - Using Docker (backend), Streamlit (frontend), and Python (API) to develop a reporting system.
   - Using LGB, SOM, and feature creation to improve the marketing model, increasing CVR from 25% to 30% in one month.
   - Using feature creation to improve the recommendation model, increasing CVR from 3% to 5%. Still working hard to optimize further.
 
-- **2022.9 ~ 2024.7 - Data Analyst at [Datarget](https://www.datarget.com/)**<br>
+- **2022.9 ~ 2024.7 - Senior Data Analyst at [Datarget](https://www.datarget.com/)**<br>
   - Using GNN, SNA, and Collaborative Filtering to build a recommendation system, which was sold to famous retail enterprises. The recommendation system enhances customer demand and brings significant benefits to these enterprises.
   - Using binning, feature selection, and regression to build a member rating system, which was sold to famous retail enterprises. The system identifies the most suitable members for various activities and provides explanations for the selection.
   - Using Prophet, SARIMAX, and feature creation to build an inventory management system. The system was implemented as a POC in a famous semiconductor manufacturing enterprise, reducing deviation by 70%.
