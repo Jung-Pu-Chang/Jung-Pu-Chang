@@ -8,7 +8,7 @@
   - Using LGB, SOM, and feature creation to improve the marketing model, increasing CVR from 25% to 30% in one month.
   - Using feature creation to improve the recommendation model, increasing CVR from 3% to 5%. Still working hard to optimize further.
 
-- **2022.9 ~ 2024.7 - Senior Data Analyst at [Datarget](https://www.datarget.com/)**<br>
+- **2022.9 ~ 2024.7 - Machine Learning Engineer at [Datarget](https://www.datarget.com/)**<br>
   - Using GNN, SNA, and Collaborative Filtering to build a recommendation system, which was sold to famous retail enterprises. The recommendation system enhances customer demand and brings significant benefits to these enterprises.
   - Using binning, feature selection, and regression to build a member rating system, which was sold to famous retail enterprises. The system identifies the most suitable members for various activities and provides explanations for the selection.
   - Using Prophet, SARIMAX, and feature creation to build an inventory management system. The system was implemented as a POC in a famous semiconductor manufacturing enterprise, reducing deviation by 70%.
