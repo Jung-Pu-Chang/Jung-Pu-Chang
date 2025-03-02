@@ -6,7 +6,6 @@
   - Using PostgreSQL and PySpark for million-member data mining.
   - Using Docker (backend), Streamlit (frontend), and Python (API) to develop a reporting system.
   - Using LGB, SOM, and feature creation to improve the marketing model, increasing CVR from 25% to 30% in one month.
-  - Using feature creation to improve the recommendation model, increasing CVR from 3% to 5%. Still working hard to optimize further.
 
 - **2022.9 ~ 2024.7 - Machine Learning Engineer at [Datarget](https://www.datarget.com/)**<br>
   - Using GNN, SNA, and Collaborative Filtering to build a recommendation system, which was sold to famous retail enterprises. The recommendation system enhances customer demand and brings significant benefits to these enterprises.
