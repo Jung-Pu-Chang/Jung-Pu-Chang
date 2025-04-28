@@ -3,7 +3,7 @@
         
 ## 📃: Experience
 - **2024.8 ~ 2025.04 - Data Scientist at [PXmart](https://www.pxmart.com.tw/)**<br>
-  - Using PostgreSQL and PySpark for million-member data mining.
+  - Using PostgreSQL, PySpark, cuDF for 20 million-member data mining.
   - Using Docker (backend), Streamlit (frontend), and Python (API) to develop a reporting system.
   - Using LGB, SOM, and feature creation to improve the marketing model, increasing CVR from 25% to 30% in one month.
 
